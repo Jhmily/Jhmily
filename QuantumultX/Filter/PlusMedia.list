@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,emby.nexitally.com,PlusMedia
-DOMAIN-SUFFIX,emby.wtf,PlusMedia
-DOMAIN-SUFFIX,plusmedia.site,PlusMedia
-DOMAIN-SUFFIX,mickeycloud.com,PlusMedia
+HOST-SUFFIX,emby.nexitally.com,PlusMedia
+HOST-SUFFIX,emby.wtf,PlusMedia
+HOST-SUFFIX,plusmedia.site,PlusMedia
+HOST-SUFFIX,mickeycloud.com,PlusMedia
