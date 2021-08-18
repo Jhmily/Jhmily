@@ -1,0 +1,14 @@
+DOMAIN-KEYWORD, http://boxer.baidu.com, reject
+DOMAIN-KEYWORD, http://miao.baidu.com, reject
+DOMAIN-KEYWORD, http://ada.baidu.com, reject
+DOMAIN-KEYWORD, http://ext.baidu.com, reject
+DOMAIN-KEYWORD, http://entry.baidu.com, reject
+DOMAIN-KEYWORD, http://ug.baidu.com, reject
+DOMAIN-KEYWORD, http://eopa.baidu.com, reject
+DOMAIN-KEYWORD, https://boxer.baidu.com, reject
+DOMAIN-KEYWORD, https://miao.baidu.com, reject
+DOMAIN-KEYWORD, https://ada.baidu.com, reject
+DOMAIN-KEYWORD, https://ext.baidu.com, reject
+DOMAIN-KEYWORD, https://entry.baidu.com, reject
+DOMAIN-KEYWORD, https://ug.baidu.com, reject
+DOMAIN-KEYWORD, https://eopa.baidu.com, reject
