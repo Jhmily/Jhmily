@@ -3,7 +3,3 @@ HOST-SUFFIX,emby.nexitally.com,PlusMedia
 HOST-SUFFIX,emby.wtf,PlusMedia
 HOST-SUFFIX,plusmedia.site,PlusMedia
 HOST-SUFFIX,mickeycloud.com,PlusMedia
-
-#Panda
-HOST-SUFFIX,embyclub.com,Panda
-IP-CIDR,223.18.41.242/24,Panda
